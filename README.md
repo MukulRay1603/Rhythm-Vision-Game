@@ -4,7 +4,7 @@ A lightweight rhythm game controlled entirely through head movement, built using
 ---
 
 ## 🎮 Overview  
-RhythmVision is a real-time, webcam-based rhythm mini-game inspired by movement-centric titles like *Beat Saber*. Instead of handheld controllers, the player uses simple head motions—left, right, leaning in, or leaning back—to respond to visual prompts.
+RhythmVision is a real-time, webcam-based rhythm mini-game inspired by movement-centric titles like *Beat Saber*. Instead of handheld controllers, the player uses simple head motions "left, right, leaning in, or leaning back" to respond to visual prompts.
 
 This project explores:  
 - Real-time computer vision  
@@ -14,7 +14,7 @@ This project explores:
 - Interactive feedback and UI overlays  
 - Visualization of facial motion trajectories  
 
-No additional ML models are used—just face detection and lightweight tracking.
+No additional ML models are used just face detection and lightweight tracking.
 
 ---
 
