@@ -161,15 +161,6 @@ This generates a plot showing your face movement path over time.
 
 ---
 
-# 🌟 Future Improvements  
-- Expression-based bonuses (smile = XP boost)  
-- Head-tilt prompts for more move types  
-- Better UI animations (e.g., glow trails)  
-- Beat-synced prompts or music integration  
-- Multi-player support using multi-face tracking  
-
----
-
 # 🙌 Acknowledgements  
 - MediaPipe by Google — for fast, lightweight face detection  
 - Beat Saber — inspiration for movement-driven rhythm gameplay  
